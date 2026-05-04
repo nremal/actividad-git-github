@@ -12,4 +12,5 @@ Aplicación Práctica
 
 1. Me gustaria crear una rama de mi vida para experimentar con mis amistades, ¿Donde me encontraria actualmente si no hubiera conocido a esta persona? ¿Que hubiera pasado si hubiera profundizado la amistad con esa persona? ¿Donde se encontrarian ellos?
 2. Una clara ventaja de esto es poder contratar a un programador de un pais de la otra punta del mundo, sin embargo esto podria llegar a generar problemas como la diferencia horaria, la falta de contacto fisico e incluso la comunicacion en algunos casos. 
-3. 
+3. Personalmente siento que tengo que desarrollar mi habilidad como programador para poder leer y resolver el conflicto escogiendo la mejor opción de las presentadas.
+
