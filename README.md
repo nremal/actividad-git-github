@@ -14,3 +14,9 @@ Aplicación Práctica
 2. Una clara ventaja de esto es poder contratar a un programador de un pais de la otra punta del mundo, sin embargo esto podria llegar a generar problemas como la diferencia horaria, la falta de contacto fisico e incluso la comunicacion en algunos casos. 
 3. Personalmente siento que tengo que desarrollar mi habilidad como programador para poder leer y resolver el conflicto escogiendo la mejor opción de las presentadas.
 
+Reflexión Profesional
+
+1. Me gustaria llegar a tener proyectos personales como juegos, aplicaciones de automatizacion e incluso algun agente de IA entrenado utlizando reinforcement learning para algun juego. Esto demostraria mis habilidades como programador y la pasion que uno puede tener por esto. 
+2. Uno de los riesgos al compartir código de manera publica es la posible exposicion de informacion sensible, el plagio y la vulnerabilidades de seguridad en el caso que mi código mal implementado sea utilizado por otra persona. Compartir mis proyectos escolares de manera publica se siente un tanto incomodo, ya que no me gustaria que mi nombre este en un lugar donde cualquiera lo puede ver.
+3. Esto me parece muy bueno, hace que cada miembro del grupo piense antes de hacer cada cambio, generando un tipo de presión positiva para no cometer ningún error grave.
+
