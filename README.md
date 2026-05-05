@@ -1,5 +1,4 @@
 # actividad-git-github
-# Hola Github
 # Test Commit 1
 
 Conceptos fundamentales 
@@ -31,5 +30,3 @@ Proyección Futura
 1. - 
 2. Me gustaria llegar a profundizar en GitHub Actions ya que disfruto de automatizar procesos, quizas busque cursos de este o videos. 
 3. Dominar Git y GitHub siento que es una habilidad muy importante en el mundo profesional, ya que me imagino que todos los grupos profesionales de programadores utilizan estas herramientas. Personalmente, tengo que desarrollar mas mis habilidades como programador, mis habilidades blandas, específicamente el trabajo en equipo.
-
-
