@@ -26,5 +26,10 @@ Pensamiento Crítico
 2. En mi opinion un buen código es legible a primera vista, un comentario hace aclaraciones de variables y/o que hace la funcion en cada linea de código. Un balance perfecto seria una documentacion básica y un buen uso de los comentarios y practicas del Clean Code para que utilizar la documendacion sea hasta innecesario. 
 3. Depender tanto de una empresa como Microsoft definitivamente es algo preocupante, esto hace que toda persona, estudiante o institución este a las manos de las decisiones de Microsoft y su continuo soporte de la plataforma. Una alternativa un tanto conocida a esto es GitLab.
 
+Proyección Futura
+
+1. - 
+2. Me gustaria llegar a profundizar en GitHub Actions ya que disfruto de automatizar procesos, quizas busque cursos de este o videos. 
+3. Dominar Git y GitHub siento que es una habilidad muy importante en el mundo profesional, ya que me imagino que todos los grupos profesionales de programadores utilizan estas herramientas. Personalmente, tengo que desarrollar mas mis habilidades como programador, mis habilidades blandas, específicamente el trabajo en equipo.
 
 
